@@ -1,9 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:windows_trial/home.dart';
-import 'package:windows_trial/netflixmobo.dart';
-import 'package:windows_trial/samplelist.dart';
+import 'package:windows_trial/pc/netflix.dart';
 
-import 'netflix.dart';
+import 'moblie/netflixmobo.dart';
 
 void main() {
   runApp(MyApp());
